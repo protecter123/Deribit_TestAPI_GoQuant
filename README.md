@@ -41,7 +41,7 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/protecter123/Deribit_TestAPI_GoQuant
 cd Deribit_TestAPI_GoQuant
 ```
 
